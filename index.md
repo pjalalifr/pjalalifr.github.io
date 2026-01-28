@@ -1,3 +1,4 @@
+![Photo](photo.jpg)
 # Pooria Jalali Farahani
 
 **Department of Computer Science**  
