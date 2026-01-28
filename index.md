@@ -1,15 +1,12 @@
 # Pooria Jalali Farahani
 
 **Department of Computer Science**  
-University Name
-
-Email: you@university.edu  
-[Google Scholar](#) · [GitHub](https://github.com/pjalalifr) · [CV](cv.pdf)
-
+Boston University
 ---
 
 ## About
-I am a graduate student in computer science working on quantum computing, random walks, and spectral graph theory. My research focuses on theoretical foundations and algorithmic applications.
+I am a First-year PhD student at Boston University, where I'm advised by Nathan Klein. I'm broadly interested in Graph Theory and Combinatorial Optimization. My current research is focused on designing approximation algorithms for graph problems.
+
 
 ## Research Interests
 - Quantum walks and quantum algorithms
@@ -26,4 +23,4 @@ I am a graduate student in computer science working on quantum computing, random
 - Course name, role, term
 
 ## Contact
-Email: you@university.edu
+Email: pjalali@bu.edu 
