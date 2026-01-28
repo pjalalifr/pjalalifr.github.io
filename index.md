@@ -3,11 +3,8 @@
 
 **Department of Computer Science**  
 Boston University
-
-CDS 1043 665 
-
-Commonwealth Avenue
-
+CDS 1043 
+665 Commonwealth Avenue
 Boston, MA 02215
 
 ## About
