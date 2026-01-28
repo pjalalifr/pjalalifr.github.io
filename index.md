@@ -2,7 +2,6 @@
 
 **Department of Computer Science**  
 Boston University
----
 
 ## About
 I am a First-year PhD student at Boston University, where I'm advised by Nathan Klein. I'm broadly interested in Graph Theory and Combinatorial Optimization. My current research is focused on designing approximation algorithms for graph problems.
